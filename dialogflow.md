@@ -82,6 +82,27 @@ gggg
 eeeeee
 
 
+# Funnier interaction with customers
+
+
+aaaa
+
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_250/v1525626381/addResponsesFunnier_hhoe2m.png)
+
+bbbbbbbbbbbbbbbb
+
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525626491/textResponse_opl2pt.png)
+
+ccccccccccccccccccc
+
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_700/v1525626588/webHookDFURL_bbjxqm.png)
+
+
+
+
+
+
+
 
 
 
