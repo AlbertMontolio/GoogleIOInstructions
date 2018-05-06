@@ -52,52 +52,67 @@ DialogFlow will pick one of our responses randomly.
 
 # Integration with Facebook
 
-aaa
+We want to integrate our DialogFlow with our Facebook Messenger. In DialogFlow we define the conversation. Changes are that we have a Facebook page. By defaultl, we have in Facebook the messenger chat. It would be nice to integrate our DialogFlow bot to our Facebook chat.
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/v1525625806/Messenger_SetUp_fkfulw.png)
 
-bbbb
+If we want to integrate a chatbot in our page, we need to create a Facebook app for this page:
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525625870/newAppFB_jsohjz.png)
 
-ccccc
+We need to generate a token for this app. The token is used to give access to DialogFlow, when he tries to send information to our Facebook app.
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/v1525625665/FB_Token_png2uo.png)
 
-ddddd
+We go back to our DialogFlow console and we paste this "Page Access Token"
+
+We create a Verify Token. This is like a password, to access to DialogFlow. We will need to give this password to our Facebook app, so that the Facebook App can access our DialogFlow console.
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525625266/Screen_Shot_2018-05-06_at_6.47.07_PM_uu7kix.png)
 
-eeee
+### We create the webhook in the Facebook console.
+
+
+
+
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525625947/setupWebhook_agabu5.png)
 
-ffff
+
+In the Callback URL we put the URL that it was given to us in the DialogFlow console.
+
+In verify token we enter the token that we created in the DialogFlow console.
+
+We select messages and messaging_postbacks
+
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525625525/New_Page_Subscription_pvlmyk.png)
 
+Our webhook is activated.
+
+Now we select our Facebook page.
 
 
-
-gggg
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525626047/webhookComplete_ltplst.png)
 
-eeeeee
+That's it!
 
 
 # Funnier interaction with customers
 
 
-aaaa
+Now that we have connected our DialogFlow with Facebook Messenger we can give as a response funnier things, like: 
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_250/v1525626381/addResponsesFunnier_hhoe2m.png)
 
-bbbbbbbbbbbbbbbb
+# Fulfillment
+
+Not just give text responses
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525626491/textResponse_opl2pt.png)
 
-ccccccccccccccccccc
+But connect to your backend
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_700/v1525626588/webHookDFURL_bbjxqm.png)
 
