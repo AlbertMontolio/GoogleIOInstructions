@@ -28,7 +28,7 @@ Once you have created the intent, you tell the bot what may trigger the intent. 
 - Tell me about your products.
 - What are your products.
 
-![alt text](https://res.cloudinary.com/montolio/image/upload/v1525623705/Screen_Shot_2018-05-06_at_6.21.24_PM_qrhxfc.png)
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_648/v1525623705/Screen_Shot_2018-05-06_at_6.21.24_PM_qrhxfc.png)
 
 ## Responses
 
