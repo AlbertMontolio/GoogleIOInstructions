@@ -32,7 +32,11 @@ Once you have created the intent, you tell the bot what may trigger the intent. 
 
 ## Responses
 
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525623946/Screen_Shot_2018-05-06_at_6.25.20_PM_kzgibr.png)
+
 what you want to answer
+
+
 
 # Integration of DialogFlow with other services
 
@@ -43,3 +47,26 @@ what you want to answer
 - etc.
 
 # 
+
+
+
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525625266/Screen_Shot_2018-05-06_at_6.47.07_PM_uu7kix.png)
+
+
+
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525625525/New_Page_Subscription_pvlmyk.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
