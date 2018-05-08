@@ -21,11 +21,11 @@ Create intent with the name: `infoProducts`
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_500/v1525623525/Screen_Shot_2018-05-06_at_6.18.12_PM_d3xg9i.png)
 
-All the others intents are listed.
+All the others intents that you created are listed.
 
 # Training Phrases
 
-Once you have created the intent, you tell the bot what may trigger the intent. You tell the bot, what the user could say to refer to this intent. For example:
+Once you have created the intent, you tell the bot what may trigger the intent. You tell the bot, what the user could say to refer to this intent. In other words, you train the bot. The bot will take this sentences to learn. That means, if the user tells something similar, the bot will be able to recognize it thanks to machine learning. For example:
 
 - Tell me about your products.
 - What are your products.
@@ -42,7 +42,7 @@ DialogFlow will pick one of our responses randomly.
 
 # Entities
 
-We create the entity
+Say that the user can choose between 3 options for one particular thing. Say that he wants to order an icecrem, and you offer 3 categories: small, medium and big. These are entities for the type of icecream. In other words, the icecream can have the types small, medium or big. You can tell the bot some synonims for these words. Why? Because now, in your training phrases, the bot is going to recognize these entities.
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_500/v1525806785/Screen_Shot_2018-05-08_at_9.08.52_PM_urgft1.png)
 
