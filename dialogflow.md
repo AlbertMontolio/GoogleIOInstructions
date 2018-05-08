@@ -36,7 +36,7 @@ Once you have created the intent, you tell the bot what may trigger the intent. 
 
 Here we explain to DialogFlow what we want to answer, if the customer triggers our intent.
 
-![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525623946/Screen_Shot_2018-05-06_at_6.25.20_PM_kzgibr.png)
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_500/v1525623946/Screen_Shot_2018-05-06_at_6.25.20_PM_kzgibr.png)
 
 DialogFlow will pick one of our responses randomly.
 
