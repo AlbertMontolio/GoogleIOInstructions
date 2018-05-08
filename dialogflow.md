@@ -46,11 +46,22 @@ Say that the user can choose between 3 options for one particular thing. Say tha
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_500/v1525806785/Screen_Shot_2018-05-08_at_9.08.52_PM_urgft1.png)
 
-Are like parameters
+Now in our training phrases, when we write a sentence, he will recognize the entities that we defined in the section Entities:
+
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525808098/Screen_Shot_2018-05-08_at_9.34.33_PM_dcgdl1.png)
+
+In our case, the bot recognizes the words large, big, small and assigns it to a parameter. Later on, we can work on this parameter.
+
+In our response, we can use this information, since it was stored in our "variable".
+
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525806785/Screen_Shot_2018-05-08_at_9.08.52_PM_urgft1.png)
+
 
 
 
 # Integration of DialogFlow with other services
+
+You can integrate your DialogFlow into other services. That makes answers funnier, since you can show cards, buttons etc.
 
 - Facebook Messenger
 - Web Page
@@ -58,9 +69,21 @@ Are like parameters
 - Twitter
 - etc.
 
+As an example, we will use Facebook Messenger, since it's very easy to set up a Facebook Page.
+
 # Integration with Facebook
 
-We want to integrate our DialogFlow with our Facebook Messenger. In DialogFlow we define the conversation. Changes are that we have a Facebook page. By defaultl, we have in Facebook the messenger chat. It would be nice to integrate our DialogFlow bot to our Facebook chat.
+We want to integrate our DialogFlow with our Facebook Messenger. In DialogFlow we define the conversation. Chances are that we have a Facebook page. By default, we have in Facebook the messenger chat. It would be nice to integrate our DialogFlow bot to our Facebook chat.
+
+We go to the Facebook developeres app
+
+```
+https://developers.facebook.com/
+```
+
+The Developers Page gives us a lot of services to integrate to our page. We select the Facebook Messenger.
+
+In the section, `my apps`, create a new app. Give it a name that describes your app. It should be related to your Facebook Page right?
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_300/v1525625806/Messenger_SetUp_fkfulw.png)
 
@@ -70,7 +93,7 @@ Create app id
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_500/v1525625870/newAppFB_jsohjz.png)
 
-We need to generate a token for this app. The token is used to give access to DialogFlow, when he tries to send information to our Facebook app.
+We need to generate a token for this app. A password. The token is used to give access to DialogFlow, when he tries to send information to our Facebook app. Imagine that you want to log in to Facebook. You need to have a password and enter it right? Between apps it's the same, but we use tokens, which are longer. So we need to create a token and give this token to DialogFlow, so that he can enter to our app.
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/v1525625665/FB_Token_png2uo.png)
 
