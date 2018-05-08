@@ -112,44 +112,35 @@ In our console in Facebook, look for the webhook setup.
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_700/v1525625947/setupWebhook_agabu5.png)
 
+Open it:
 
 In the Callback URL we put the URL that it was given to us in the DialogFlow console.
 
 In verify token we enter the token that we created in the DialogFlow console.
 
-We select messages and messaging_postbacks
-
-
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525625525/New_Page_Subscription_pvlmyk.png)
+
+We select messages and messaging_postbacks.
+
+Click `Verify and Save`.
 
 Our webhook is activated.
 
-Now we select our Facebook page.
+Now you just need to select your Facebook Page.
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525626047/webhookComplete_ltplst.png)
 
-That's it!
+Now your Facebook Page is subscribed to this Facebook App, and this Facebook App can communicate with Dialog Flow. That was the setup! Now it's time to play with our bot! :)
 
 # Funnier interaction with customers
-
 
 Now that we have connected our DialogFlow with Facebook Messenger we can give as a response funnier things, like: 
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_250/v1525626381/addResponsesFunnier_hhoe2m.png)
 
-# Fulfillment
+Just play with cards, images etc. You will see them in the Facebook Messenger Chat.
 
-Not just give text responses
-
-![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525626491/textResponse_opl2pt.png)
-
-But connect to your backend
-
-![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_700/v1525626588/webHookDFURL_bbjxqm.png)
-
-
-
-
+If you have questions, do not hesitate to ask your teachers :)
 
 
 
