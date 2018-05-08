@@ -11,7 +11,7 @@ https://dialogflow.com/
 
 # Create Agent
 
-That's going to be your project
+That's going to be your project. Here you create an agent (a project), for example, MyWebPageBot.
 
 # Create Intent
 
@@ -39,6 +39,14 @@ Here we explain to DialogFlow what we want to answer, if the customer triggers o
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525623946/Screen_Shot_2018-05-06_at_6.25.20_PM_kzgibr.png)
 
 DialogFlow will pick one of our responses randomly.
+
+# Entities
+
+We create the entity
+
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_500/v1525806785/Screen_Shot_2018-05-08_at_9.08.52_PM_urgft1.png)
+
+Are like parameters
 
 
 
