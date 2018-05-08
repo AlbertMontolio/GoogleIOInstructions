@@ -103,11 +103,12 @@ We go back to our DialogFlow console and we paste this "Page Access Token"
 
 
 
-We create a Verify Token. This is like a password, to access to DialogFlow. We will need to give this password to our Facebook app, so that the Facebook App can access our DialogFlow console.
-
-![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_500/v1525625266/Screen_Shot_2018-05-06_at_6.47.07_PM_uu7kix.png)
+Now we create a `Verify Token`. This is like another password between Dialog Flow and FB Messenger. We will need to give this password to our Facebook app, so that the Facebook App can access our DialogFlow console.
+Just remember it for now!
 
 # We create the webhook in the Facebook console.
+
+In our console in Facebook, look for the webhook setup.
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_700/v1525625947/setupWebhook_agabu5.png)
 
