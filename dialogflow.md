@@ -19,7 +19,7 @@ Say that you want to respond if the user asks about your products. You want to c
 
 Create intent with the name: `infoProducts`
 
-![alt text](https://res.cloudinary.com/montolio/image/upload/v1525623525/Screen_Shot_2018-05-06_at_6.18.12_PM_d3xg9i.png)
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_500/v1525623525/Screen_Shot_2018-05-06_at_6.18.12_PM_d3xg9i.png)
 
 All the others intents are listed.
 
