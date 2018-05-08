@@ -98,12 +98,9 @@ Our webhook is activated.
 
 Now we select our Facebook page.
 
-
-
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525626047/webhookComplete_ltplst.png)
 
 That's it!
-
 
 # Funnier interaction with customers
 
