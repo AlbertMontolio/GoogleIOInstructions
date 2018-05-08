@@ -66,7 +66,9 @@ We want to integrate our DialogFlow with our Facebook Messenger. In DialogFlow w
 
 If we want to integrate a chatbot in our page, we need to create a Facebook app for this page:
 
-![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525625870/newAppFB_jsohjz.png)
+Create app id
+
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_500/v1525625870/newAppFB_jsohjz.png)
 
 We need to generate a token for this app. The token is used to give access to DialogFlow, when he tries to send information to our Facebook app.
 
