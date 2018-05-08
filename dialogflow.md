@@ -100,7 +100,7 @@ Now we select our Facebook page.
 
 
 
-![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525626047/webhookComplete_ltplst.png)
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525625525/New_Page_Subscription_pvlmyk.png)
 
 That's it!
 
