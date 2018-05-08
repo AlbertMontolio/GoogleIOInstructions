@@ -99,6 +99,10 @@ We need to generate a token for this app. A password. The token is used to give 
 
 We go back to our DialogFlow console and we paste this "Page Access Token"
 
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525625266/Screen_Shot_2018-05-06_at_6.47.07_PM_uu7kix.png)
+
+
+
 We create a Verify Token. This is like a password, to access to DialogFlow. We will need to give this password to our Facebook app, so that the Facebook App can access our DialogFlow console.
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_500/v1525625266/Screen_Shot_2018-05-06_at_6.47.07_PM_uu7kix.png)
