@@ -62,7 +62,7 @@ Are like parameters
 
 We want to integrate our DialogFlow with our Facebook Messenger. In DialogFlow we define the conversation. Changes are that we have a Facebook page. By defaultl, we have in Facebook the messenger chat. It would be nice to integrate our DialogFlow bot to our Facebook chat.
 
-![alt text](https://res.cloudinary.com/montolio/image/upload/v1525625806/Messenger_SetUp_fkfulw.png)
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_300/v1525625806/Messenger_SetUp_fkfulw.png)
 
 If we want to integrate a chatbot in our page, we need to create a Facebook app for this page:
 
