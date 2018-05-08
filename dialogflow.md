@@ -80,9 +80,9 @@ We create a Verify Token. This is like a password, to access to DialogFlow. We w
 
 ![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_500/v1525625266/Screen_Shot_2018-05-06_at_6.47.07_PM_uu7kix.png)
 
-### We create the webhook in the Facebook console.
+# We create the webhook in the Facebook console.
 
-![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525625947/setupWebhook_agabu5.png)
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_700/v1525625947/setupWebhook_agabu5.png)
 
 
 In the Callback URL we put the URL that it was given to us in the DialogFlow console.
@@ -92,7 +92,7 @@ In verify token we enter the token that we created in the DialogFlow console.
 We select messages and messaging_postbacks
 
 
-![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525625525/New_Page_Subscription_pvlmyk.png)
+![alt text](https://cloudinary.com/console/media_library#/dialog/image/upload/New_Page_Subscription_pvlmyk)
 
 Our webhook is activated.
 
@@ -100,7 +100,7 @@ Now we select our Facebook page.
 
 
 
-![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_800/v1525626047/webhookComplete_ltplst.png)
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525626047/webhookComplete_ltplst.png)
 
 That's it!
 
