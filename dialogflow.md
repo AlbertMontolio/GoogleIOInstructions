@@ -92,7 +92,7 @@ In verify token we enter the token that we created in the DialogFlow console.
 We select messages and messaging_postbacks
 
 
-![alt text](https://cloudinary.com/console/media_library#/dialog/image/upload/New_Page_Subscription_pvlmyk)
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525625525/New_Page_Subscription_pvlmyk.png)
 
 Our webhook is activated.
 
@@ -100,7 +100,7 @@ Now we select our Facebook page.
 
 
 
-![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525625525/New_Page_Subscription_pvlmyk.png)
+![alt text](https://res.cloudinary.com/montolio/image/upload/c_scale,w_600/v1525626047/webhookComplete_ltplst.png)
 
 That's it!
 
